@@ -1,0 +1,26 @@
+\frametitle{\texttt{parrot.py}}
+\begin{semiverbatim}
+\pause
+\begin{lstlisting}
+if __name__ == "__main":
+
+\end{lstlisting}
+
+\pause
+\begin{lstlisting}[firstnumber=last]
+    print "Oh yes, the, uh,
+           the Norwegian Blue..."
+    print "What's, uh...
+           What's wrong with it? "
+
+\end{lstlisting}
+
+\pause
+\begin{lstlisting}[firstnumber=last]
+    print "I'll tell you what's wrong with it,
+           my lad."
+    print "'E's dead,
+           that's what's wrong with it!"
+
+\end{lstlisting}
+\end{semiverbatim}

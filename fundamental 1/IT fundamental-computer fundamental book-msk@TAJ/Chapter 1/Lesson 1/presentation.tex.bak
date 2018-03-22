@@ -1,0 +1,183 @@
+\documentclass{beamer}
+
+\setbeamercovered{transparent}
+
+\usepackage{pxfonts}
+\usepackage{listings}
+\title{Chapter 2: Number Systems and Codes
+}
+\subtitle{Lesson 1.1: Number Systems}
+\author{Computer Fundamentals}
+\institute{Second Edition}
+ %\institute{\inst{1}Texas A\&M University \and \inst{2}Other University}
+\date{\small{}}
+
+% color
+\definecolor{maroon}{RGB}{80,0,0} % A&M's primary color
+\definecolor{332C2C}{RGB}{51,44,44} % A&M's primary support color, dark gray
+\definecolor{5F574F}{RGB}{95,87,79} % A&M's secondary colors, light gray
+\usecolortheme[named=maroon]{structure}
+\setbeamercolor{frametitle}{fg=maroon,bg=white}
+\setbeamercolor{primary}{fg=white,bg=maroon}
+\setbeamercolor{secondary}{fg=white,bg=5F574F}
+
+% headline
+\setbeamertemplate{headline}{
+\hbox{%
+    \begin{beamercolorbox}[wd=0.5\paperwidth,ht=2.25ex,dp=1ex,left]{primary}
+        \hspace*{2ex}\insertsectionhead % Section Title in Left
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[wd=0.5\paperwidth,ht=2.25ex,dp=1ex,left]{secondary}
+        \hspace*{2ex}\insertsubsectionhead % Subsection Title in Right
+    \end{beamercolorbox}}
+\vskip0pt }
+
+% footline
+\setbeamertemplate{footline}{
+\hbox{%
+    \begin{beamercolorbox}[wd=.49\paperwidth,ht=2.25ex,dp=1ex,left]{primary}
+        \hspace*{2ex}{Lesson 1.1: Introduction to Computers} % Something in Left
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[wd=.02\paperwidth,ht=2.25ex,dp=1ex,center]{primary}
+        %\includegraphics[height=2.25ex,dp=2.25ex]{aTm08-box} % aTm Logo in the Middle
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[wd=.49\paperwidth,ht=2.25ex,dp=1ex,right]{primary}
+        \insertframenumber{} / \inserttotalframenumber \hspace*{3ex} % Page numbers in Right
+    \end{beamercolorbox}}
+\vskip0pt }
+
+\let\Tiny=\tiny
+
+
+
+\begin{document}
+\frame{\titlepage}
+
+\section{Objectives}
+\frame{
+On completion of this lesson you will know:
+\begin{itemize}
+  \item Basic concepts of different number systems
+\item	Characteristics of decimal, binary, octal and hexadecimal numbers
+\item	Conversion of numbers
+
+\end{itemize}
+}
+\section{Number Systems}
+\frame
+{In logical design, however, it is necessary to perform manipulations in the binary system of numbers because of the on-off nature of the physical devices used. The popular number systems are: 
+\begin{itemize}
+\item Decimal
+\item Binary
+\item Octal
+\item Hexadecimal
+\end{itemize}
+\begin{figure}[ht!]
+\centering
+  \includegraphics[width=10cm]{fig111}\\
+  \caption{1.1.1: Solving a program with a computer}
+\end{figure}
+}
+
+\section{Components of a Computer}
+
+\frame{
+A computer is used to process data and a data processing system consists of more than just machines. A computer system must contain:
+\begin{itemize}
+\item hardware,
+\item software,
+\begin{itemize}
+\item System software, and
+\item Application software
+\end{itemize}
+
+\item humanware
+\begin{itemize}
+\item A system analyst
+\item A programmer
+\item A computer operator
+\end{itemize}
+
+\item operational procedures.
+\end{itemize}
+
+}
+
+\section{Characteristics of the Computers}
+
+\frame{
+\begin{itemize}
+\item Speed: It is related to the volume of data processed per unit of time. Computer can work very fast.
+\item Accuracy: The degree of accuracy of computer is very high and every calculation is performed with the same accuracy.
+\item Diligence: A computer is free from tiredness, lack of concentration, fatigue, etc. It can work for hours without creating any error.
+\item Versatility: It means the capacity to perform completely different type of work.
+\item Power of Remembering: Computer has the power of storing any amount of information or data.
+\item No IQ: Computer is a dumb machine and it cannot do any work without instruction from the user.
+\item No Feeling: It does not have feelings or emotion, taste, knowledge and experience.
+\item Storage: The Computer has an in-built memory where it can store a large amount of data.
+\end{itemize}
+
+}
+
+\section{Classification of Computers}
+\subsection{Classification based on purpose}
+
+\frame{
+\begin{itemize}
+\item Servers
+\begin{itemize}
+\item File server
+\item Print server
+\item Database server
+\end{itemize}
+\item Workstations
+\item Information appliances
+\item Embedded computers
+\end{itemize}
+
+}
+
+
+\section{Classification of Computers}
+\subsection{Classification based on generation of computers}
+
+\frame{
+\begin{itemize}
+\item First Generation (1940-1956): Vacuum tubes
+\item Second Generation (1956-1963): Transistors
+\item Third Generation (1964-1971): Integrated Circuits (ICs)
+\item Fourth Generation (1971-Present) Microprocessor
+\item Fifth Generation (Present and Beyond): Artificial Intelligence
+\end{itemize}
+
+}
+
+
+\section{Classification of Computers}
+\subsection{Classification based on Size}
+
+\frame{
+\begin{itemize}
+\item Mainframe Computers: Mainframe computers are very large, often filling an entire room.
+\item Minicomputers: Minicomputers are midsized computers. In size and power, minicomputers lie between workstations and mainframes.
+\item Microcomputers: Microcomputers, also called personal computers (PCs), are the most common type of computers used by people today, whether in a workplace, at academic institutions or on the desk at home.
+\begin{itemize}
+\item Desktop computers
+\item Game consoles
+\item Note book Computers
+\item Tablet PC
+\item Smart phones, and PDAs (personal digital assistants)
+\item	Programmable calculator
+\item	Handheld game consoles
+
+\end{itemize}
+
+\item Super computers: Super computers are the fastest type of computer. They are employed for specialized applications.
+
+\end{itemize}
+
+}
+
+
+
+\end{document}

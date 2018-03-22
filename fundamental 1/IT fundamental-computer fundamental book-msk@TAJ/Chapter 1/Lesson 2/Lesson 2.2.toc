@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.12pt}
+\beamer@sectionintoc {1}{Objectives}{2}{0}{1}
+\beamer@sectionintoc {2}{Binary Addition }{4}{0}{2}
+\beamer@sectionintoc {3}{Binary Substraction}{10}{0}{3}
+\beamer@sectionintoc {4}{Binary Multiplication}{16}{0}{4}
+\beamer@sectionintoc {5}{Binary Division}{18}{0}{5}

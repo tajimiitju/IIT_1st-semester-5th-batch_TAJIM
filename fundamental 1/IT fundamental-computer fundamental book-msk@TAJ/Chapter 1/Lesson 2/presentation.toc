@@ -1,0 +1,14 @@
+\beamer@endinputifotherversion {3.12pt}
+\beamer@sectionintoc {1}{Objectives}{2}{0}{1}
+\beamer@sectionintoc {2}{Data, Information and Codes}{8}{0}{2}
+\beamer@sectionintoc {3}{Numeric Data Representation}{12}{0}{3}
+\beamer@sectionintoc {4}{Numeric Data Representation}{16}{0}{4}
+\beamer@subsectionintoc {4}{1}{Sign Magniture Representation}{16}{0}{4}
+\beamer@subsectionintoc {4}{2}{1's Complement Representation}{20}{0}{4}
+\beamer@subsectionintoc {4}{3}{2's Complement Representation}{25}{0}{4}
+\beamer@subsectionintoc {4}{4}{Representation of Real Number}{27}{0}{4}
+\beamer@subsectionintoc {4}{5}{Representation of Real Number}{32}{0}{4}
+\beamer@sectionintoc {5}{BCD Code}{37}{0}{5}
+\beamer@sectionintoc {6}{EBCDIC}{43}{0}{6}
+\beamer@sectionintoc {7}{ASCII}{50}{0}{7}
+\beamer@sectionintoc {8}{Unicode}{56}{0}{8}

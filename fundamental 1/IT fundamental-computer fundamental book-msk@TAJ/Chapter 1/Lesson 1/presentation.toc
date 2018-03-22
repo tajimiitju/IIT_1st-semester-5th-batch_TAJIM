@@ -1,0 +1,37 @@
+\beamer@endinputifotherversion {3.12pt}
+\beamer@sectionintoc {1}{Objectives}{2}{0}{1}
+\beamer@sectionintoc {2}{Number Systems}{3}{0}{2}
+\beamer@sectionintoc {3}{Number Systems}{4}{0}{3}
+\beamer@subsectionintoc {3}{1}{Decimal Number System}{4}{0}{3}
+\beamer@sectionintoc {4}{Number Systems}{5}{0}{4}
+\beamer@subsectionintoc {4}{1}{Decimal Number System}{5}{0}{4}
+\beamer@sectionintoc {5}{Number Systems}{6}{0}{5}
+\beamer@subsectionintoc {5}{1}{Decimal Number System}{6}{0}{5}
+\beamer@sectionintoc {6}{Number Systems}{7}{0}{6}
+\beamer@subsectionintoc {6}{1}{Binary Number System}{7}{0}{6}
+\beamer@sectionintoc {7}{Number Systems}{8}{0}{7}
+\beamer@subsectionintoc {7}{1}{Binary Number System}{8}{0}{7}
+\beamer@sectionintoc {8}{Number Systems}{9}{0}{8}
+\beamer@subsectionintoc {8}{1}{Octal Number System}{9}{0}{8}
+\beamer@sectionintoc {9}{Number Systems}{10}{0}{9}
+\beamer@subsectionintoc {9}{1}{Hexadecimal Number System}{10}{0}{9}
+\beamer@sectionintoc {10}{Converting from Decimal to base $r$ Systems}{11}{0}{10}
+\beamer@sectionintoc {11}{Converting from Decimal to base $r$ Systems}{12}{0}{11}
+\beamer@sectionintoc {12}{Converting from Decimal to base $r$ Systems}{13}{0}{12}
+\beamer@sectionintoc {13}{Converting from Decimal to base $r$ Systems}{14}{0}{13}
+\beamer@sectionintoc {14}{Converting from Decimal to base $r$ Systems}{15}{0}{14}
+\beamer@subsectionintoc {14}{1}{Binary to Octal: A Shortcut Method}{15}{0}{14}
+\beamer@sectionintoc {15}{Converting from Decimal to base $r$ Systems}{16}{0}{15}
+\beamer@subsectionintoc {15}{1}{Binary to Octal: A Shortcut Method}{16}{0}{15}
+\beamer@sectionintoc {16}{Converting from Decimal to base $r$ Systems}{17}{0}{16}
+\beamer@subsectionintoc {16}{1}{Octal to Binary: A Shortcut Method}{17}{0}{16}
+\beamer@sectionintoc {17}{Converting from Decimal to base $r$ Systems}{18}{0}{17}
+\beamer@subsectionintoc {17}{1}{Octal to Binary: A Shortcut Method}{18}{0}{17}
+\beamer@sectionintoc {18}{Converting from Decimal to base $r$ Systems}{19}{0}{18}
+\beamer@subsectionintoc {18}{1}{Binary to Hexadecimal: A Shortcut Method}{19}{0}{18}
+\beamer@sectionintoc {19}{Converting from Decimal to base $r$ Systems}{20}{0}{19}
+\beamer@subsectionintoc {19}{1}{Binary to Hexadecimal: A Shortcut Method}{20}{0}{19}
+\beamer@sectionintoc {20}{Converting from Decimal to base $r$ Systems}{21}{0}{20}
+\beamer@subsectionintoc {20}{1}{Hexadecimal to Binary: A Shortcut Method}{21}{0}{20}
+\beamer@sectionintoc {21}{Converting from Decimal to base $r$ Systems}{22}{0}{21}
+\beamer@subsectionintoc {21}{1}{Binary to Hexadecimal: A Shortcut Method}{22}{0}{21}
